@@ -1,0 +1,32 @@
+.about_content h2
+{
+  padding-top: 190px;
+  color: #0A2647;
+  font-weight: 900;
+  font-size: 40px;
+  text-align: center;
+}
+.about_content p
+{
+  color: #afafaf;
+  font-weight: 900;
+  font-size: 15px;
+}
+.break_line
+{
+ width: 80%;
+ color: #7a7a7a;
+ padding-top: 20px;
+}
+.video {
+  animation: mover 2s infinite  alternate;
+}
+
+@-webkit-keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-18px); }
+}
+@keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-18px); }
+}

@@ -1,0 +1,19 @@
+#work_h1
+{
+  color: rgb(18, 42, 86);
+  font-size: 75px;
+  font-weight: 700;
+  padding-top: 100px;
+}
+#work_p
+{
+  padding: 10px 100px;
+}
+.work_content
+{
+  text-align: center;
+}
+.core-p
+{
+  font-size: 15px;
+}

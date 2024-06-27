@@ -1,0 +1,23 @@
+.img-vision
+{
+  width: 100%;
+}
+#vision_section
+{
+  padding-top: 90px;
+  text-align: center;
+  padding: 100px 0px 50px 0px;
+}
+#vision_section h2
+{
+  color: #0A2647;
+  font-weight: 800;
+  font-size: 40px;
+  padding-top: 170px;
+}
+p
+{
+  color: #9b9b9b;
+  font-weight: 900;
+  font-size: 15px;
+}
